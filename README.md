@@ -1,2 +1,3 @@
-# my-portfolio
-My professional portfolio
+# Rob Cooper's Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
